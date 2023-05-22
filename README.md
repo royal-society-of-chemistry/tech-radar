@@ -1,5 +1,5 @@
 # Royal Society of Chemistry Technology Radar
-View the [November 2022 Tech Radar](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Froyal-society-of-chemistry.github.io%2Ftech-radar%2F2022-11.csv)
+View the [November 2022 Tech Radar](https://radar.thoughtworks.com/?documentId=https%3A%2F%2Froyal-society-of-chemistry.github.io%2Ftech-radar%2F2022-11.csv)
 
 We ran our initial tech radar sessions in October and November 2022 based on the [Thoughtworks Technology Radar](https://www.thoughtworks.com/radar), using it as a way for our software teams to share perspectives on a range of tools, techniques and technologies that we use now, that interest us, and that we want to move away from.
 
